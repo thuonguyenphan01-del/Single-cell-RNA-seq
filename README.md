@@ -51,6 +51,16 @@ II.Các bước phân tích dữ liệu:.
 4. Phân nhóm tế bào (Clustering).
   - Các thuật toán k-n cluster , Louran...
 5.Phân tích khác biệt biểu hiện gen (Marker..)
+6.Differential expression analysis.
+Sau khi phân tế bào thành các nhóm khác nhau, câu hỏi đặt ra là điều gì đã làm cho mỗi nhóm khác biệt với các nhóm còn lại trong tập dữ liệu, và làm sao để chú thích chính xác các nhóm theo phân loại tế bào (tế bào máu, T-cells, B-cells,…) của chúng.
+
+Có nhiều cách để thực hiện bước này:
+
+Tìm kiếm các marker gene (gene có tính đại diện, nổi bật) làm tăng/giảm điều hòa (upregulation/downregulation) ở các loại tế bào đang quan tâm (so với phần còn lại của bộ dữ liệu).
+So sách toàn bộ biểu hiện gene giữa các nhóm tế bào với nhau.
+Sử dụng các phương pháp tự động so sánh các tế bào trên cơ sở dữ liệu về biểu hiện gene của các loại tế bào đã được công bố giúp dễ dàng hơn trong việc chú giải loại tế bào.
+Các phương pháp tự động là một tiến bộ đầy hứa hẹn, nhưng vẫn chưa thể thay đổi được sự cẩn thận của con người.
+
 
 
 
