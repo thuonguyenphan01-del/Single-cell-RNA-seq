@@ -1,4 +1,4 @@
-# Sigle-cell-RNA-seq
+# Single-cell-RNA-seq
 File thực hành: Python (Scanpy và SCVI), R (Seurat).
 - Video hướng dẫn thực hành với R -studio: https://www.youtube.com/watch?v=5HBzgsz8qyk&t=463s.
 - data: 20k Mixture of NSCLC DTCs from 7 donors, 3' v3.1.
